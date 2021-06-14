@@ -1,5 +1,18 @@
-## About me
+<div align="center">
+  <h1> Hi, I'm Adelson Inácio! :D</h1>
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/niodio)](https://github.com/niodio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelson-inacio-79788a51/)](https://www.linkedin.com/in/adelson-inacio-79788a51/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/)
+  
+</div>
+
+- [Website](https://#) 💻 - Working on it.
+
+
+<h1 align="center"> About me </h1>
+ 
 ### Hi people,
 
 I'm a front-end dev beginner.
