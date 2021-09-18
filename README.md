@@ -13,9 +13,9 @@
 
 <h1 align="center"> About me </h1>
  
-### Hi people,
+### Hello people,
 
-I'm a front-end dev beginner.
+I'm a fullstack dev beginner.
 I'm studying web development since the beginning of 2020 but I already knew programming language as a hobby since I was 17 years old.
 I started taking a Delphi 7 course, soon after I joined a technical course in industrial computing where I learned the basics of C and C++ and fell in love with game development.
 I walked away from programming for a while and in 2020 I regained my enthusiasm for programming when I needed a solution to a problem I had been having, which was solved with simple automation.
@@ -24,7 +24,7 @@ I'm enrolled in the technical course of Systems Development (DS) at ETEC de Fran
 
 Skills learned:
 GIT/GITHub,
-HTML5, CSS3, Bootstrap, Materialize, Javascript/ES6
+HTML5, CSS3, Bootstrap, Materialize, Javascript/ES6, PHP 
 
 Studying and putting into practice previous skills:
 PHP, Javascript
