@@ -29,12 +29,7 @@ Laravel, PHP, HTML5, CSS3, Bootstrap, GIT/GITHub,
 Studying and putting into practice previous skills:
 Flutter, Android/Kotlin and VueJs 
 
-
-<!--
-**niodio/niodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on particular project
 - 🌱 I’m currently learning Flutter, Kotlin/Android and VueJs for Laravel
--->
